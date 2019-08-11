@@ -5,8 +5,8 @@ This is the submission for the Android Developer programming exercise of MaaS Gl
 
 ## Features
 - Show nearby articles on the map as a point of interest (POI)
-- Show nearby articles (up to 50) as a list and further details about the place when clicking on the item of the list
-- Show article detail including title, summary, ~~images and link to the wiki article~~
+- Show nearby articles (up to 50) as a list when tapping on the **round button** at the *bottom left corner* of the map screen
+- Show article detail when clicking on the item of the list, including *title*, *summary*, ~~*images* and *link* to the wiki article~~
 - ~~Give route suggestions to reach selected POI~~
 
 ## Resources
@@ -19,4 +19,4 @@ This is the submission for the Android Developer programming exercise of MaaS Gl
 - ~~RxJava2~~
 
 ## Prerequisite
-Place the Google Maps API key in the value resource file *google_maps_api.xml*
+Place the Google Maps API key in the value resource file *google_maps_api.xml* before running the app
