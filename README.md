@@ -17,3 +17,6 @@ This is the submission for the Android Developer programming exercise of MaaS Gl
 - Anko
 - ~~Dagger 2~~
 - ~~RxJava2~~
+
+## Prerequisite
+Place the Google Maps API key in the value resource file *google_maps_api.xml*
