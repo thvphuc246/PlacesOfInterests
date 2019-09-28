@@ -1,7 +1,5 @@
-# Simple Map Application
+# Helsinki Places Of Interests
 A simple Android application to *fetch the current location* of the device and *get nearby articles* resourced from Wikipedia.
-
-This is the submission for the Android Developer programming exercise of MaaS Global Oy
 
 ## Features
 - Show nearby articles on the map as a point of interest (POI)
